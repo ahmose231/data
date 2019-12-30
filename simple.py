@@ -5,4 +5,4 @@ import random
 print "Content-Type: text/plain"
 print
 
-print "Random value is " + str(random.randint(100000, 999999) % 1055);
+print "Random value is " + str(random.randint(100000, 999999) % 1717);
